@@ -12,12 +12,12 @@ const Experience = () => {
         I am well versed in assembly and disassembly of electrical components and I believe I have adequate understanding of concepts
          behind what we as electrical engineers do.</strong> 
       
-        </p>
+        {/* </p>
         <p className="text-gray-400 text-lg leading-relaxed">
           I am a Ghanaian who has been studying <strong className="text-white">Electrical and Electronics Engineering at Academic City University for the past three years.</strong>  
         
         </p>
-        <p className="text-gray-400 text-lg leading-relaxed mt-4">
+        <p className="text-gray-400 text-lg leading-relaxed mt-4"> */}
           
         </p>
       </div>
