@@ -13,13 +13,13 @@ const About = () => {
         </h2>
 
         {/* Description */}
-        <p className="text-lg md:text-xl text-gray-400 mt-6 leading-relaxed">
-      I am a Ghanaian Electrical and Electronics Engineering student at Academic City University with a passion for innovation and problem-solving.
-       Over the past three years, I have gained hands-on experience in assembling and disassembling electrical components, and I have a solid understanding of the core concepts in my field.
-        My goal is to use my skills to create impactful solutions that improve lives and make the world a better place.
-</p>
-        
-        {/* Skills Section */}
+          <p className="text-lg md:text-xl mt-4 max-w-2xl text-gray-300 leading-relaxed mx-auto">
+           I am a Ghanaian Electrical and Electronics Engineering student at Academic City University with a passion for innovation and problem-solving.
+           Over the past three years, I have gained hands-on experience in assembling and disassembling electrical components, and I have a solid understanding of the core concepts in my field.
+            My goal is to use my skills to create impactful solutions that improve lives and make the world a better place.
+          </p>
+          
+          {/* Skills Section */}
         <div className="mt-6">
           <h3 className="text-4xl md:text-4xl font-extrabold text-blue-500">Skills</h3>
           <p className="text-lg md:text-xl text-gray-300 mt-4">
@@ -40,3 +40,4 @@ const About = () => {
   
 
 export default About;
+

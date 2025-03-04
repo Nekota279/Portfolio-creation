@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "myproject - Makafuis",
+  title: "myproject - Makafui Quist",
   description: "",
 };
 
@@ -14,4 +14,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-layout.js
