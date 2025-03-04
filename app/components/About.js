@@ -14,9 +14,10 @@ const About = () => {
 
         {/* Description */}
         <p className="text-lg md:text-xl text-gray-400 mt-6 leading-relaxed">
-          I am interested in learning all things that can further enhance my skills to be able to break free from the constraints
-          of society and learn to live and be happy, all while spreading joy and help make the world a better place.
-        </p>
+      I am a Ghanaian Electrical and Electronics Engineering student at Academic City University with a passion for innovation and problem-solving.
+       Over the past three years, I have gained hands-on experience in assembling and disassembling electrical components, and I have a solid understanding of the core concepts in my field.
+        My goal is to use my skills to create impactful solutions that improve lives and make the world a better place.
+</p>
         
         {/* Skills Section */}
         <div className="mt-6">

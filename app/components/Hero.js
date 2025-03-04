@@ -16,9 +16,10 @@ const Hero = () => {
 
       {/* Description */}
       <p className="text-lg md:text-xl mt-4 max-w-2xl text-gray-300 leading-relaxed">
-        A student who is currently pursuing Electrical and Electronics Engineering in hopes of changing the world one step at a time. 
-        I love tackling interesting projects that grow my repertoire of skills and teach me more of this world we live in.
-      </p>
+    A passionate Electrical and Electronics Engineering student at Academic City University, dedicated to solving real-world problems 
+    through innovation and technology. 
+    I thrive on challenging projects that push my boundaries and expand my skill set.
+</p>
 
       {/* CTA Button */}
     

@@ -7,8 +7,8 @@ const Portfolio = () => {
       <Image 
         src="/profile.jpg" 
         alt="Makafui Quist" 
-        width={300} 
-        height={300} 
+        width={720} 
+        height={776} 
         className="profile-pic" 
       />
     </div>
