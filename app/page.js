@@ -5,13 +5,15 @@ import Project from './components/Project'; // Ensure this path is correct
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div>
       {/* Rendering components in the app */}
+      <Navbar/>
       <Hero />
-      <Experience />
+      <Experience title={"Hello"} />
       <Project />  {/* Use the Project component here */}
       <About />
       <Contact />
